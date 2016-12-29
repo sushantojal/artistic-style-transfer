@@ -13,7 +13,7 @@ Other requriements:
 
 Example:
 
-<img src = "https://github.com/sushantojal/artistic-style-transfer/style_transfer.png" />
+<img src = "https://github.com/sushantojal/artistic-style-transfer/blob/master/style_transfer.png" />
 
 
 References:
