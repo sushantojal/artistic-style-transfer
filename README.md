@@ -13,7 +13,7 @@ Other requriements:
 
 Example:
 
-![](https://github.com/sushantojal/artistic-style-transfer/style_transfer.jpg)
+<img src = "https://github.com/sushantojal/artistic-style-transfer/style_transfer.png" />
 
 
 References:
